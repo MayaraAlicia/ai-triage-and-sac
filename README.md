@@ -1,5 +1,5 @@
 # **🤖 Triagem de SAC com IA**
-Este projeto utiliza a API do Google Gemini para automatizar a triagem de tickets de suporte e comentários de clientes do iFood. O sistema atua como um analista de segurança e suporte, classificando as demandas por gravidade e categoria
+Este projeto utiliza a API do Google Gemini para automatizar a triagem de tickets de suporte e comentários de clientes de uma empresa Alimenticia. O sistema atua como um analista de segurança e suporte, classificando as demandas por gravidade e categoria
 
 ## 🛠️ Funcionalidades
 
