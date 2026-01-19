@@ -1,0 +1,32 @@
+[
+    {
+        "id_ticket": "TK-9821",
+        "cliente": "Ana Clara",
+        "texto": "Absurdo! O entregador chegou aqui, jogou a comida no chão e me xingou porque eu demorei 2 minutos para descer. Estou com medo, ele sabe onde eu moro. Quero providências urgentes!!",
+        "data": "2025-12-01 19:30"
+    },
+    {
+        "id_ticket": "TK-9822",
+        "cliente": "João Silva",
+        "texto": "A comida estava ótima, mas chegou um pouco morna. Nada que um microondas não resolva, mas fica o feedback para melhorar a embalagem térmica.",
+        "data": "2025-12-01 20:15"
+    },
+    {
+        "id_ticket": "TK-9823",
+        "cliente": "Mariana Souza",
+        "texto": "Pedi meu lanche às 18h e agora são 21h. O app diz que foi entregue mas eu não recebi nada! O porteiro confirmou que ninguém passou aqui. O entregador roubou meu lanche?",
+        "data": "2025-12-01 21:00"
+    },
+    {
+        "id_ticket": "TK-9824",
+        "cliente": "Pedro Santos",
+        "texto": "Gostei muito da agilidade, chegou antes do prazo. O cupom funcionou certinho. Parabéns ao restaurante.",
+        "data": "2025-12-01 21:10"
+    },
+    {
+        "id_ticket": "TK-9825",
+        "cliente": "Beatriz Lima",
+        "texto": "O lacre de segurança veio rompido e faltou a batata frita. Não vou comer isso, vai saber se não mexeram na minha comida. Quero meu dinheiro de volta.",
+        "data": "2025-12-01 21:45"
+    }
+]
